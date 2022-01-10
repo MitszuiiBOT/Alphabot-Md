@@ -6,13 +6,9 @@
 	 「 TqTo 」
 	@ My God
 	@ My Parents
-	@ Fatih A.
-	@ Ferdi
-	@ DikaArdnt [author]
-	@ Mhankbarbar
-	@ Nurutomo
-	@ Rashid
 	@ ZeeoneOfc
+        @ Mitszuii official
+        @ MITSZUII BOT
 	@ Penyedia Module
 	@ And All Support
 **/
