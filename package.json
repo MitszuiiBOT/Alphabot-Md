@@ -1,7 +1,7 @@
 {
-  "name": "AlphabotMD",
+  "name": "MITSZUII BOT",
   "version": "0.0.4",
-  "description": "Alpha Bot Multi Device, Only update in YouTube ZEEONE OFC",
+  "description": "MITSZUII BOT Multi Device, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
   "directories": {
     "lib": "lib"
@@ -18,7 +18,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "ZeeoneOfc",
+  "author": "MitszuiiOfficial",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
